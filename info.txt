@@ -1,1 +1,3 @@
-This is my info page . .
+This is the info page of the company
+
+
